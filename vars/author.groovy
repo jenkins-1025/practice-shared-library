@@ -1,3 +1,7 @@
+def call() {
+    "Sans - QA Manager"
+}
+
 def name() {
     "M. Hasan"
 }
